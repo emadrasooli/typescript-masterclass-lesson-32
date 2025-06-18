@@ -1,52 +1,62 @@
 {
-    "pizzas": [
-        {
-            "id": 1,
-            "title": "Margherita",
-            "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
-            "toppings": [
-                "tomato sauce",
-                "mozzarella cheese",
-                "fresh basil"
-            ],
-            "price": 8
-        },
-        {
-            "id": 2,
-            "title": "Pepperoni",
-            "description": "Spicy pepperoni slices with mozzarella cheese and tomato sauce.",
-            "toppings": [
-                "tomato sauce",
-                "mozzarella cheese",
-                "pepperoni"
-            ],
-            "price": 9
-        },
-        {
-            "id": 3,
-            "title": "Vegetarian",
-            "description": "A mix of fresh vegetables with mozzarella cheese and tomato sauce.",
-            "toppings": [
-                "tomato sauce",
-                "mozzarella cheese",
-                "bell peppers",
-                "onions",
-                "mushrooms",
-                "olives"
-            ],
-            "price": 10
-        },
-        {
-            "id": 4,
-            "title": "BBQ Chicken",
-            "description": "Grilled chicken with BBQ sauce, red onions, and cilantro.",
-            "toppings": [
-                "BBQ sauce",
-                "grilled chicken",
-                "red onions",
-                "cilantro"
-            ],
-            "price": 11
-        }
-    ]
+  "pizzas": [
+    {
+      "id": "1",
+      "title": "Margherita",
+      "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+      "toppings": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "fresh basil"
+      ],
+      "price": 8
+    },
+    {
+      "id": "2",
+      "title": "Pepperoni",
+      "description": "Spicy pepperoni slices with mozzarella cheese and tomato sauce.",
+      "toppings": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "pepperoni"
+      ],
+      "price": 9
+    },
+    {
+      "id": "3",
+      "title": "Vegetarian",
+      "description": "A mix of fresh vegetables with mozzarella cheese and tomato sauce.",
+      "toppings": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "bell peppers",
+        "onions",
+        "mushrooms",
+        "olives"
+      ],
+      "price": 10
+    },
+    {
+      "id": "4",
+      "title": "BBQ Chicken",
+      "description": "Grilled chicken with BBQ sauce, red onions, and cilantro.",
+      "toppings": [
+        "BBQ sauce",
+        "grilled chicken",
+        "red onions",
+        "cilantro"
+      ],
+      "price": 11
+    },
+    {
+      "id": "a8d4",
+      "title": "MaMan Pazz Pizza",
+      "description": "it is a good pizza with bread, sauce, paper and cheese ",
+      "toppings": [
+        "mushrooms",
+        "peppers"
+      ],
+      "price": 6
+    }
+  ]
 }
